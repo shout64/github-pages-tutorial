@@ -1,4 +1,7 @@
 ---
-title: Welcome to my blog
+title: Welcome to my example site!
 ---
+
+## Devin Chaney
+### Data Person
 
